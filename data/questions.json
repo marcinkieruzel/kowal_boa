@@ -1,0 +1,78 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "Ile metrów wysokości ma wieża Eiffle?",
+            "answers": {
+                "a": 222,
+                "b": 120,
+                "c": 300,
+                "d": 333
+            },
+            "goodAnswer": 222
+        },
+        {
+            "questionNumber": 2,
+            "question": "Jaki jest najcięższy ssak na świecie?",
+            "answers": {
+                "a": "Płetwal Błekitny",
+                "b": "Słoń",
+                "c": "Nosorożec",
+                "d": "Hipopotam"
+            },
+            "goodAnswer": "Płetwal Błekitny"
+        },
+        {
+            "questionNumber": 3,
+            "question": "Kto jest najlepszy?",
+            "answers": {
+                "a": "Kowal",
+                "b": "Grzesiek Kowalski",
+                "c": "Boa Dusiciel",
+                "d": "Python"
+            },
+            "goodAnswer": "Kowal"
+        },
+        {
+            "questionNumber": 4,
+            "question": "Kto może pokonać Kowala?",
+            "answers": {
+                "a": "Chuck Noris",
+                "b": "Sylwek",
+                "c": "Dziewczyna Sylwka",
+                "d": "Nikt"
+            },
+            "goodAnswer": "Nikt"
+        },
+        {
+            "questionNumber": 4,
+            "question": "Kto nigdy nie przegrywa",
+            "answers": {
+                "a": "Kto nie gra",
+                "b": "Kto nie gra i nie wycodzi z domu",
+                "c": "Kowal"
+            },
+            "goodAnswer": "Kowal"
+        },
+        {
+            "questionNumber": 5,
+            "question": "Kto nigdy nie przegrywa",
+            "answers": {
+                "a": "Kto nie gra",
+                "b": "Kto nie gra i nie wycodzi z domu",
+                "c": "Kowal"
+            },
+            "goodAnswer": "Kowal"
+        },
+        {
+            "questionNumber": 6,
+            "question": "Kto nigdy nie przegrywa",
+            "answers": {
+                "a": "Kto nie gra",
+                "b": "Kto nie gra i nie wycodzi z domu",
+                "c": "Kowal"
+            },
+            "goodAnswer": "Kowal"
+        }
+    ]
+}
